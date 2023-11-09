@@ -1,5 +1,3 @@
-# Proposed Changes
-
 <!--
 Hi there. Thanks for submitting a pull request!
 
